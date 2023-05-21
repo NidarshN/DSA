@@ -1,3 +1,3 @@
 # DSA
 
-1. [Arrays] (/arrays/README.md)
+1. [Arrays] (arrays/README.md)
