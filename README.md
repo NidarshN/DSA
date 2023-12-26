@@ -1,3 +1,3 @@
-# DSA
+# Leetcode Problems
 
-1. [Arrays](./arrays/README.md)
+1. [TwoSum](./twosum/README.md)
