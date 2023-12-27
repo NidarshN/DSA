@@ -1,6 +1,6 @@
 # Remove Duplicates from Sorted Array
 
-> **Topics:** Array, Two Pointers
+> **Topics:** *Array, Two Pointers*
 
 [Leetcode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 

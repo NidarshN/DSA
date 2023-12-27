@@ -1,6 +1,6 @@
 # Palindrome Number
 
-> **Topics:** Math
+> **Topics:** *Math*
 
 [Leetcode #9](https://leetcode.com/problems/palindrome-number/)
 

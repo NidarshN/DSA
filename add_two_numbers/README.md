@@ -1,6 +1,6 @@
 # Add Two Numbers
 
-> **Topics:** LinkedList, Math, Recursion
+> **Topics:** *LinkedList, Math, Recursion*
 
 [Leetcode #2](https://leetcode.com/problems/add-two-numbers/)
 
