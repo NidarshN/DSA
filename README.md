@@ -2,10 +2,10 @@
 
 ## Index
 
-1. [TwoSum](./two_sum/README.md) <code style="color : rgb(97, 250, 80); font-style: italic">Easy</code>
-2. [Add Two Numbers](./add_two_numbers/README.md) <code style="color : rgb(252, 178, 104); font-style: italic">Medium</code>
-9. [Palindrome Number](./palindrome_number/README.md) <code style="color : rgb(97, 250, 80); font-style: italic">Easy</code>
-26. [Remove Duplicates from Sorted Array](./remove_duplicates_sorted_array/README.md) <code style="color : rgb(97, 250, 80); font-style: italic">Easy</code>
+1. [TwoSum](./two_sum/README.md) [Easy]
+2. [Add Two Numbers](./add_two_numbers/README.md) [Medium]
+9. [Palindrome Number](./palindrome_number/README.md) [Easy]
+26. [Remove Duplicates from Sorted Array](./remove_duplicates_sorted_array/README.md) [Easy]
 
 ## Note
 
